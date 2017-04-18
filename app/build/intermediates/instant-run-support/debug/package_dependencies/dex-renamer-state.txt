@@ -1,0 +1,4 @@
+#Tue Apr 18 10:43:30 PDT 2017
+base.0=C\:\\Users\\kurtz\\AndroidStudioProjects\\ch07_ex4_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_61d0e6c9892320f5b4c92266770c441e0a61b526
+renamed.0=classes.dex
+file.0=C\:\\Users\\kurtz\\AndroidStudioProjects\\ch07_ex4_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_61d0e6c9892320f5b4c92266770c441e0a61b526\\classes.dex
